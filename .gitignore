@@ -1,0 +1,76 @@
+# ============================================
+# AMD Vivado Project Ignore List
+# ============================================
+
+# Vivado project folders
+*.runs/
+*.cache/
+*.Xil/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.str/
+*.tmp/
+*.webtalk/
+*.gen/
+*.sdk/
+*.jou
+*.log
+*.html
+*.xml
+*.wdb
+*.pb
+*.dcp
+*.rpt
+
+# Vivado database and backup files
+*.db
+*.backup
+*.ltx
+*.cfg
+*.ini
+
+# Vivado-generated constraints or metadata
+*.xdc.cache
+*.xpr
+*.xise
+
+# Simulation dumps
+*.vcd
+*.saif
+
+# Checkpoint files
+*.chk
+*.checkpoints/
+
+# Temp files
+*.tmp
+*~  
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python cache (if scripts used)
+__pycache__/
+*.pyc
+
+# Build or output artifacts
+*.bit
+*.bin
+*.mmi
+
+# Eclipse/SDK workspace ignore (if using Vitis)
+.metadata/
+*.project
+*.classpath
+
+# ============================================
+# Custom project folders you may want to ignore
+# Uncomment if needed:
+# sim/
+# doc_build/
+# out/
+# ============================================
