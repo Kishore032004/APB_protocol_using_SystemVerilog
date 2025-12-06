@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kisho/APB_protocol/APB_protocol.srcs/sources_1/imports/new/apb_pkg.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kisho/APB_protocol/APB_protocol.srcs/sources_1/imports/new/apb_txn.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kisho/APB_protocol/APB_protocol.srcs/sources_1/imports/new/apb_monitor.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kisho/APB_protocol/APB_protocol.srcs/sources_1/imports/new/apb_scoreboard.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kisho/APB_protocol/APB_protocol.srcs/sources_1/imports/new/apb_driver.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kisho/APB_protocol/APB_protocol.srcs/sources_1/imports/new/apb_coverage.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kisho/APB_protocol/APB_protocol.srcs/sources_1/imports/new/apb_interface.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kisho/APB_protocol/APB_protocol.srcs/sim_1/imports/new/apb_slave.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module apb_slave
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kisho/APB_protocol/APB_protocol.srcs/sources_1/imports/new/apb_test.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/kisho/APB_protocol/APB_protocol.srcs/sources_1/imports/new/tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kisho/APB_protocol/APB_protocol.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

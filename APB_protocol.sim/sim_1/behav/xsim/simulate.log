@@ -1,0 +1,15 @@
+Time resolution is 1 ps
+
+===== DIRECTED TESTS BEGIN =====
+
+
+===== RANDOM TESTS BEGIN =====
+
+[SCOREBOARD][WRITE] Addr=0x0 WDATA=0xa5a50000  -> Updated Ref Model
+[SCOREBOARD][READ PASS] Addr=0x4  Data=0x0
+[SCOREBOARD][WRITE] Addr=0x4 WDATA=0xe63d166d  -> Updated Ref Model
+[SCOREBOARD][READ PASS] Addr=0xc  Data=0x0
+
+===== TEST COMPLETED =====
+
+$finish called at time : 235 ns : File "C:/Users/kisho/APB_protocol/APB_protocol.srcs/sources_1/imports/new/apb_test.sv" Line 97
